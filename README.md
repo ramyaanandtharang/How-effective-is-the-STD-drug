@@ -8,4 +8,4 @@ In the light of upcoming World Health Day, we intend to raise awareness about va
 
 A new pharmaceutical startup has recently been acquired by one of the world's largest MNCs. 
 For the acquisition process, the startup is required to tabulate all drugs that have been sold and account for each drug's effectiveness. 
-Your task is to develop a sophisticated NLP-based Machine Learning model to predict the base score of a certain drug in a provided case.
+Our task is to develop a sophisticated NLP-based Machine Learning model to predict the base score of a certain drug in a provided case.
